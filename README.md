@@ -1,5 +1,5 @@
 # ATLauncher-Server-Pack-DDL
-<h1>Créé par Maps_red pour les serveurs Isolonice</h1>
+<h4>Créé par Maps_red pour les serveurs Isolonice</h4>
 Permet de télécharger la dernière version en date d'un modpack Minecraft ATLauncher
 
 Executer en faisant : php getServer.php DNS<br>
