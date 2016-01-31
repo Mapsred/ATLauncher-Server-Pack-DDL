@@ -5,7 +5,7 @@
  * Date: 22/01/2016
  * Time: 21:29
  */
-
+/**Remplacer les entrée de $servers par vos/votre serveur**/
 if (isset($argv[1])) {
     $servers = ["DNSTechpack", "SkyFactory", "Karma", "CrundeeCraft", "HermitcraftModsauce2"];
     if (!in_array($argv[1], $servers)) {
